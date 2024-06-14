@@ -1,0 +1,835 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo1 {
+    height: 40px;
+    width: 140px;
+}
+body {
+    overflow-x:hidden;
+}
+.navbar1 {
+    background-color: white;
+}
+
+.bg-container1 {
+    width: 100vw;
+}
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    padding: 20px;
+}
+
+.navbar2 {
+    background-color: #0c0521;
+}
+
+#navitem1 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#navitem2 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#navitem3 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#navitem4 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#navitem5 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.card1-heading {
+    font-family: "Roboto";
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+
+.span1 {
+    color: #FFDDA9;
+}
+
+.card1-para {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: white;
+    margin-top: 15px;
+}
+
+.button1 {
+    height: 50px;
+    width: 170px;
+    border-radius: 25px;
+    color: black;
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: bold;
+    background-color: #FFDDA9;
+    margin-top: 15px;
+}
+
+.search-icon {
+    margin: 5px;
+    color: white;
+}
+
+.india {
+    margin: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+#navbarDropdownMenuLink {
+    margin: 5px;
+    color: white;
+    margin-left: auto;
+}
+
+.location {
+    margin-top: 12px;
+    margin-left: 5px;
+}
+
+.popular-locations {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    margin: 5px;
+    color: #bfd4de;
+}
+
+.your-location {
+    color: blue;
+}
+
+.search-bar {
+    margin-left: 10px;
+    border-style: solid;
+    margin-top: 10px;
+    border-width: 3px;
+    border-radius: 9px;
+    border-color: #193745;
+    padding: 8px;
+    margin-right: 0px;
+
+}
+
+.search-item-icon {
+    margin-top: 5px;
+
+    margin-left: 8px;
+    color: white;
+}
+
+
+
+.button-group {
+    background-color: #646569;
+    padding: 10px;
+    width: 200px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-left: 8px;
+}
+
+.login1-button {
+    background-color: #0c113d;
+    padding-left: 6px;
+    padding-right: 6px;
+    margin-right: 5px;
+    margin-left: 10px;
+    color: white;
+    border-radius: 5px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.register-button {
+    background-color: #0c113d;
+    padding-left: 6px;
+    padding-right: 6px;
+
+    margin-left: 10px;
+    color: white;
+    border-radius: 5px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.blood-group-img {
+    height: 80px;
+    width: 80px;
+}
+
+.blood-group-container {
+    text-align: center;
+}
+
+.blood-group-row {
+    padding: 5px;
+}
+
+.blood-gr4oup-type {
+    padding: 5px;
+}
+
+.blood-group-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+
+.donar-heading {
+    color: #1f2933;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.donar-img {
+    width: 100%;
+}
+
+.card1-content {
+    padding: 15px;
+}
+
+.donator-name {
+    color: #959ead;
+    font-size: 13px;
+    font-family: "Roboto";
+
+}
+
+.donator-details {
+    color: #323f4b;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.a1-donar {
+    color: blue;
+    font-size: 13px;
+    font-family: "Roboto";
+    margin-top: 0;
+}
+
+.card1 {
+    margin-left: 8px;
+}
+
+.fa-arrow-right {
+    font-size: 10px;
+    margin-left: 5px
+}
+
+.login-page-container {
+
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+
+}
+
+.fa-user1 {
+    color: white;
+    font-size: 70px;
+    margin: 15px;
+}
+
+.login-logo {
+    text-align: center;
+}
+
+.login-page {
+    width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+.user-name-label {
+    background-color: transparent;
+
+}
+
+.fa-user2 {
+    color: white;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.user-password {
+    background-color: transparent;
+}
+
+.fa-lock {
+    color: white;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.input1 {
+    background-color: white;
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    border-radius: 5px;
+    border-width: 0px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.remember-password {
+    color: white;
+    font-family: "Roboto";
+    text-align: center;
+    font-weight: bold;
+}
+
+.remember-password1 {
+    margin: 5px;
+}
+
+.forgot-password {
+    margin: 5px;
+}
+
+.user-name {
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.login-button {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 0px;
+    background-color: #a4a2e8;
+    font-family: "Roboto";
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+}
+
+.register-page-container {
+
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+
+}
+
+.register11-button {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 0px;
+    background-color: transparent;
+    font-family: "Roboto";
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    border-color: white;
+    border-style: solid;
+}
+
+.register111-button {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 0px;
+    background-color: transparent;
+    font-family: "Roboto";
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    border-color: white;
+    border-style: solid;
+}
+
+.login11-button {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 0px;
+    background-color: transparent;
+    font-family: "Roboto";
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    border-color: white;
+    border-style: solid;
+}
+
+#sectionLoginPage {
+    background-image: url("https://wallpaperaccess.com/full/2314983.jpg");
+    background-size: cover;
+}
+
+.button-back {
+    margin: 10px;
+
+    padding: 5px;
+    background-color: transparent;
+    border-width: 0px;
+}
+
+#sectionRegisterPage {
+    background-image: url("https://t3.ftcdn.net/jpg/02/94/52/66/360_F_294526635_8Fc9IbBHWOC83JsiFNRNx5VivafEjiyi.jpg");
+    background-size: cover;
+}
+
+.search-icon {
+    color: white;
+}
+
+.navbar-toggler-icon {
+    color: white;
+}
+
+.fa-circle-chevron-left {
+    font-size: 25px;
+}
+
+.input-feild {
+    margin: 10px;
+    border-width: 0px;
+    padding: 5px;
+}
+
+@media (max-width:579px) {
+    #sectionLoginPage {
+        background-size: cover;
+        width: 100vw;
+    }
+
+    .login-page {
+
+        margin-right: 100px;
+    }
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container-features {
+    padding: 20px;
+    padding-bottom: 50px;
+}
+
+.features-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.features-para {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #9aa5b1;
+}
+
+.features-img {
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
+
+.features-heading2 {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #323f4b;
+    font-weight: 500;
+}
+
+.features-para2 {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #9aa5b1;
+}
+
+.features-div-content {
+    padding-left: 10px;
+}
+
+.bg-container-services {
+    padding-top: 60px;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-bottom: 100px;
+}
+
+.services-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+
+}
+
+.services-para {
+    color: #616c7c;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.services-img {
+    height: 70px;
+    width: 90px;
+}
+
+.services-heading2 {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.services-para2 {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.div2 {
+    height: 100%;
+}
+
+.bg-container-footer {
+    background-color: #19232d;
+    padding: 20px;
+}
+
+.footer-img {
+    height: 50px;
+    width: 80px;
+    margin-bottom: 20px;
+
+}
+
+
+i {
+    font-size: 25px;
+    color: #5a7184;
+}
+
+.footer-card1 {
+    text-align: center;
+}
+
+.footer-div2 {
+    background-color: #202b36;
+    border-radius: 100%;
+    height: 53px;
+    width: 53px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.footer-p1 {
+    font-family: "Roboto";
+    color: #5a7184;
+    font-size: 22px;
+    margin: 14px;
+    margin-bottom: 20px;
+}
+
+.footer-h2 {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 25px;
+    color: #5a7184;
+}
+
+.footer-p2 {
+    font-family: "Roboto";
+    color: #5a7184;
+    font-size: 22px;
+}
+
+.footer-span1 {
+    margin-left: 15px;
+}
+
+hr {
+    background-color: white;
+}
+
+.footer-p3 {
+    font-family: "Roboto";
+    color: #5a7184;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 15px;
+}
+
+.bg-container-offers {
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    background-size: cover;
+    width: 100vw;
+    margin: 25px;
+}
+
+.offers-img1 {
+    width: 100%;
+}
+
+.offers-img2 {
+    width: 100%;
+}
+
+.offers-h1 {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ad2167;
+    font-size: 30px;
+}
+
+.offers-p1 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+
+}
+
+.offers-span1 {
+    color: yellow;
+    font-style: italic;
+    font-size: 22px;
+}
+
+.h10 {
+    color: white;
+    font-style: italic;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.img3 {
+    width: 300px;
+    height: 100px;
+}
+
+.offers-span2 {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.p1 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+
+}
+
+.p2 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 10px;
+
+}
+
+.donarList-heading {
+    font-family: "Roboto";
+    text-align: center;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.blood-group-button {
+    background-color: transparent;
+    border-width: 0px;
+    border-style: none;
+}
+
+.donar-back-button {
+    color: black;
+}
+
+.required1 {
+    font-family: "Roboto";
+    color: white;
+    display: none;
+}
+
+.required2 {
+    font-family: "Roboto";
+    color: white;
+    display: none;
+}
+
+.required3 {
+    font-family: "Roboto";
+    color: white;
+    display: none;
+}
+
+.required4 {
+    font-family: "Roboto";
+    color: white;
+    display: none;
+}
+
+.required5 {
+    font-family: "Roboto";
+    color: white;
+    display: none;
+}
+
+.required6 {
+    font-family: "Roboto";
+    color: white;
+    display: none;
+}
+
+.required7 {
+    font-family: "Roboto";
+    color: white;
+    display: none;
+}
+
+.required8 {
+    font-family: "Roboto";
+    color: white;
+    display: none;
+}
+
+.required9 {
+    font-family: "Roboto";
+    color: white;
+    display: none;
+}
+
+.required10 {
+    font-family: "Roboto";
+    color: white;
+    display: none;
+}
+
+.required11 {
+    font-family: "Roboto";
+    color: white;
+    display: none;
+}
+
+.required12 {
+    font-family: "Roboto";
+    color: white;
+    display: none;
+}
+
+#required1 {
+    font-family: "Roboto";
+    color: red;
+
+}
+
+#required2 {
+    font-family: "Roboto";
+    color: red;
+
+}
+
+#required3 {
+    font-family: "Roboto";
+    color: red;
+
+}
+
+#required4 {
+    font-family: "Roboto";
+    color: red;
+
+}
+
+#required5 {
+    font-family: "Roboto";
+    color: red;
+
+}
+
+#required6 {
+    font-family: "Roboto";
+    color: red;
+
+}
+
+#required7 {
+    font-family: "Roboto";
+    color: red;
+
+}
+
+#required8 {
+    font-family: "Roboto";
+    color: red;
+
+}
+
+#required9 {
+    font-family: "Roboto";
+    color: red;
+
+}
+
+#required10 {
+    font-family: "Roboto";
+    color: red;
+
+}
+
+#required11 {
+    font-family: "Roboto";
+    color: red;
+
+}
+
+#required12 {
+    font-family: "Roboto";
+    color: red;
+
+}
